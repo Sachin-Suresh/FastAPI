@@ -1,4 +1,3 @@
-
 ---
 slug: fast-api-crud-read-operations
 author:
@@ -16,6 +15,7 @@ h1_title: "FastAPI CRUD Read Operations"
 contributor:
   name: Your Name
   link: Github/Twitter Link
+ 
 ---
 
 ### Table of contents
