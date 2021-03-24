@@ -1,3 +1,5 @@
+
+
 ---
 slug: fast-api-crud-read-operations
 author:
@@ -15,7 +17,7 @@ h1_title: "FastAPI CRUD Read Operations"
 contributor:
   name: Your Name
   link: Github/Twitter Link
- 
+
 ---
 
 ### Table of contents
@@ -45,6 +47,7 @@ FastAPI gives you the following features:
 - **Fast to code:** Allow developers to build up whatever structure of server they want, piece by piece. This means that an entire server could _live in one file_.
 - **Short:** Provides the minimum toolset, and minimizes code duplication.
 - **Automatic docs**: Provides interactive API documentation for decorated endpoints. It also boasts asynchronous operations. 
+- **Easy:** FastAPIs are designed to be easy to use and learn.
 
 
 ## Install FastAPI
