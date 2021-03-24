@@ -1,5 +1,3 @@
-
-
 ---
 slug: fast-api-crud-read-operations
 author:
